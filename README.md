@@ -1,10 +1,11 @@
-#C++学习记录
-##Preface
-```
-    从零开始系统学习C++。并做笔记记录知识点与心得体会。@ 2018-05-24 。
-```
-##Details
-* CodingInterviews 为《剑指Offer》学习记录。
-* C++ Primary Plus 为 《C++ Primary Plus》学习记录。
-* EffectiveC++ 为 《EffectiveC++》学习记录。
-*  C++STL 为 《大道至简—— C++ STL(标准模版库)精解》学习记录。
+#LiveAndLearn
+
+#说明
+>- 对阅读书目的总结。
+> - 对遇到问题解决过程的记录。
+> - 对新技术的探索。
+
+
+##2019.03.27 更新
+> - 对原有repository重命名。
+> - 对内容进行分类，先分为Linux，Git，C++三个部分是。> - 计划2～3周更新一次。
